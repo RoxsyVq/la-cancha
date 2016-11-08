@@ -1,0 +1,54 @@
+.bod{
+  background: #129a51;
+  width: 850px;
+  height: 500px;
+}
+.perimetro{
+  border: 1px solid #fff;
+  width: 800px;
+  height: 450px;
+position: absolute;
+left: 30px ;
+top: 30px;
+bottom: 20px;
+right: 20px;
+}
+.arco1{
+  border: 1px solid #fff;
+  width: 100px;
+  height: 200px;
+position: absolute;
+bottom: 120px;
+}
+.arco2{
+  border: 1px solid #fff;
+  width: 100px;
+  height: 200px;
+position: absolute;
+bottom: 120px;
+right:0;
+}
+.centro{
+  border: 1px solid #fff;
+  width: 180px;
+  height: 180px;
+position: absolute;
+bottom: 150px;
+left: 300px;
+border-radius: 100%;
+}
+.bola1{
+  position: relative;
+  left: 90px;
+top:140px ;
+}
+.bola2{
+  position: relative;
+  left: 400px;
+top:50px ;
+}
+.bola3{
+  position: relative;
+  left:  675px;
+  top: 235px;
+}
